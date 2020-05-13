@@ -1,4 +1,4 @@
-# Code of Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme
+# Code of the ICRA 2020 paper *Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme*
 
 Official code repository of the paper *Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme* by Mathias Lechner, Ramin Hasani, Daniela Rus, and Radu Grosu, published at ICRA 2020.
 
