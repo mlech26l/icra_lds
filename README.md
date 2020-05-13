@@ -35,3 +35,15 @@ The ```--model`` option defines the RNN model. Possible values are
 The ```--real``` argument defines if there should be a separate test set, i.e., 
 if the flag is set, all the data will be used for training and validation (there is no test set).
 The actual test was perform on the real robot (see picture above)
+
+## Bibtex
+
+```bibtex
+@inproceedings{lechner2020gershgorin,
+  title={Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme},
+  author={Lechner, Mathias and Hasani, Ramin and Rus, Daniela and Grosu, Radu},
+  booktitle={2020 International Conference on Robotics and Automation (ICRA)},
+  year={2020},
+  organization={IEEE}
+}
+```
