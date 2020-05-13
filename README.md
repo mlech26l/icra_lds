@@ -21,8 +21,7 @@ Running the HalfCheetah experiments requires a valid MuJoCo license.
 
 ## Example usage
 
-bash
-```
+```bash
 python3 train_imitator.py --model lstm --real
 ```
 
